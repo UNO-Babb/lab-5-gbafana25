@@ -3,6 +3,9 @@
 #the key.  The resulting message has all the letters advanced by 'key'
 #letters.
 #To run the code, run the main() function
+# Gareth Moodley
+# 9-22-25
+# Caeser Cipher
 
 def encode(message, key):
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"

@@ -1,4 +1,7 @@
 #Word Game is a knock-off version of a popular online word-guessing game.
+# Gareth Moodley
+# 9-22-25
+# Word game
 
 import random
 
